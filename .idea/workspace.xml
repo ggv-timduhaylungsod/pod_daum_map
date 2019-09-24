@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f328a417-22d0-42ce-bfc5-82468acdf597" name="Default Changelist" comment="" />
+    <list default="true" id="f328a417-22d0-42ce-bfc5-82468acdf597" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$USER_HOME$/Library/Caches/AppCode2019.1/DerivedData/KakaoMapLib-bxfuevjoukwdtnhkkchfmgpxodgx/Build/Intermediates.noindex/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +18,10 @@
         <entry file="file://$PROJECT_DIR$/KakaoMapLib/KakaoMapLib.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+              <folding>
+                <element signature="e#127#156#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -25,6 +30,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -38,6 +44,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1200" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -55,37 +62,6 @@
               <item name="KakaoMapLib" type="1d218c8b:XcodeProjectNode" />
               <item name="KakaoMapLib" type="fcab9f18:XcodeViewNode" />
             </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="KakaoMapLib" type="1d218c8b:XcodeProjectNode" />
-              <item name="Products" type="fcab9f18:XcodeViewNode" />
-            </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="KakaoMapLib" type="1d218c8b:XcodeProjectNode" />
-              <item name="Frameworks" type="fcab9f18:XcodeViewNode" />
-            </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="KakaoMapLib" type="1d218c8b:XcodeProjectNode" />
-              <item name="Frameworks" type="fcab9f18:XcodeViewNode" />
-              <item name="DaumMap.embeddedframework" type="fcab9f18:XcodeViewNode" />
-            </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="KakaoMapLib" type="1d218c8b:XcodeProjectNode" />
-              <item name="Frameworks" type="fcab9f18:XcodeViewNode" />
-              <item name="DaumMap.embeddedframework" type="fcab9f18:XcodeViewNode" />
-              <item name="DaumMap.framework" type="fcab9f18:XcodeViewNode" />
-            </path>
-            <path>
-              <item name="" type="efc3779f:XcodeRootNode" />
-              <item name="KakaoMapLib" type="1d218c8b:XcodeProjectNode" />
-              <item name="Frameworks" type="fcab9f18:XcodeViewNode" />
-              <item name="DaumMap.embeddedframework" type="fcab9f18:XcodeViewNode" />
-              <item name="DaumMap.framework" type="fcab9f18:XcodeViewNode" />
-              <item name="Headers" type="bbd1f04c:XcodeFrameworkHeadersNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -95,11 +71,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.project.structure.last.selected" value="SDK Location" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/KakaoMapLib.xcodeproj" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
@@ -221,25 +204,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569289215827</updated>
-      <workItem from="1569289217384" duration="645000" />
+      <workItem from="1569289217384" duration="1834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="645000" />
+    <option name="totallyTimeSpent" value="1834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32971996" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Messages" weight="0.32971996" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.6793135" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -279,7 +261,10 @@
     <entry file="file://$PROJECT_DIR$/KakaoMapLib/KakaoMapLib.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+          <folding>
+            <element signature="e#127#156#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
