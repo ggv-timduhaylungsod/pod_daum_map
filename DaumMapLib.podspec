@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "DaumMapLib"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.4"
   spec.summary      = "Daum map from Kakao corp."
   
   spec.description  = <<-DESC
@@ -13,10 +13,10 @@ Pod::Spec.new do |spec|
   spec.author    = "clby"
   spec.ios.deployment_target = "8.0"
   spec.source       = { :git => "https://github.com/clbycode/pod_daum_map.git", :tag => "#{spec.version}" }
-  spec.ios.vendored_framework = "KakaoMapLib/Frameworks/DaumMap.embeddedframework/DaumMap.framework"
+  spec.ios.vendored_framework = "Frameworks/DaumMap.embeddedframework/DaumMap.framework"
   spec.source_files  = "KakaoMapLib/**/*.{h,m}"
   spec.frameworks = 'CoreLocation', 'SystemConfiguration', 'OpenGLES', 'QuartzCore'
   spec.libraries = 'xml2', 'sqlite3', 'c++'
-  spec.xcconfig     = { 'HEADER_SEARCH_PATHS' => '"$(SDKROOT)/usr/include/libxml2"' }
-
+  spec.xcconfig     = { 'HEADER_SEARCH_PATHS' => '"$(SDKROOT)/usr/include/libxml2"',
+                        'SWIFT_OBJC_BRIDGING_HEADER' => '${POD_ROOT}/DaumMapLib/KakaoMapBridgingHeader.h'}
 end
