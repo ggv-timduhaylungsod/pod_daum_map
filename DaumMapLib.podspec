@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "DaumMapLib"
-  spec.version      = "0.0.5"
+  spec.version      = "0.0.6"
   spec.summary      = "Daum map from Kakao corp."
   
   spec.description  = <<-DESC

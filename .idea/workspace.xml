@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f328a417-22d0-42ce-bfc5-82468acdf597" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/KakaoMapLib/KakaoMapLib-Bridging-Header.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DaumMapLib.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/DaumMapLib.podspec" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/KakaoMapLib.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/KakaoMapLib.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KakaoMapLib/KakaoMapBridgingHeader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KakaoMapLib.xcodeproj/project.xcworkspace/xcuserdata/clby.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/KakaoMapLib.xcodeproj/project.xcworkspace/xcuserdata/clby.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KakaoMapLib/KakaoMapLib-Bridging-Header.h" beforeDir="false" afterPath="$PROJECT_DIR$/KakaoMapLib/KakaoMapLib-Bridging-Header.h" afterDir="false" />
     </list>
     <ignored path="$USER_HOME$/Library/Caches/AppCode2019.1/DerivedData/KakaoMapLib-bxfuevjoukwdtnhkkchfmgpxodgx/Build/Intermediates.noindex/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -276,12 +276,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569289215827</updated>
-      <workItem from="1569289217384" duration="11334000" />
+      <workItem from="1569289217384" duration="12158000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11334000" />
+    <option name="totallyTimeSpent" value="12158000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1080" width="1920" height="1080" extended-state="0" />

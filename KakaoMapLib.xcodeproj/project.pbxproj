@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2EA284C05A7CDCBD9F9D3897 /* KakaoMapLib-Bridging-Header.h in Headers */ = {isa = PBXBuildFile; fileRef = 2EA286DE4862D2D3913FEC75 /* KakaoMapLib-Bridging-Header.h */; };
-		6B723F2E2339A91F00A71AD0 /* KakaoMapLib.h in Headers */ = {isa = PBXBuildFile; fileRef = 6B723F2C2339A91F00A71AD0 /* KakaoMapLib.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6B723F2E2339A91F00A71AD0 /* KakaoMapLib.h in Headers */ = {isa = PBXBuildFile; fileRef = 6B723F2C2339A91F00A71AD0 /* KakaoMapLib.h */; };
 		6B723F5D2339A98800A71AD0 /* map_pinup_custom@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B723F372339A98800A71AD0 /* map_pinup_custom@3x.png */; };
 		6B723F5E2339A98800A71AD0 /* map_pin_custom.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B723F382339A98800A71AD0 /* map_pin_custom.png */; };
 		6B723F5F2339A98800A71AD0 /* shadow_balloon.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B723F392339A98800A71AD0 /* shadow_balloon.png */; };
@@ -236,11 +236,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				6B723F732339A98800A71AD0 /* MTMapGeometry.h in Headers */,
+				6B723F2E2339A91F00A71AD0 /* KakaoMapLib.h in Headers */,
 				6B723F742339A98800A71AD0 /* MTMapCircle.h in Headers */,
 				6B723F6E2339A98800A71AD0 /* MTMapCameraUpdate.h in Headers */,
 				6B723F722339A98800A71AD0 /* MTMapView.h in Headers */,
 				6B723F6D2339A98800A71AD0 /* MTMapPOIItem.h in Headers */,
-				6B723F2E2339A91F00A71AD0 /* KakaoMapLib.h in Headers */,
 				6B723F6F2339A98800A71AD0 /* MTMapReverseGeoCoder.h in Headers */,
 				6B723F712339A98800A71AD0 /* MTMapLocationMarkerItem.h in Headers */,
 				6B723F702339A98800A71AD0 /* MTMapPolyline.h in Headers */,
@@ -406,6 +406,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OBJC_BRIDGING_HEADER = "KakaoMapLib-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -463,6 +464,7 @@
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OBJC_BRIDGING_HEADER = "KakaoMapLib-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
