@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2EA284C05A7CDCBD9F9D3897 /* KakaoMapLib-Bridging-Header.h in Headers */ = {isa = PBXBuildFile; fileRef = 2EA286DE4862D2D3913FEC75 /* KakaoMapLib-Bridging-Header.h */; };
 		6B723F2E2339A91F00A71AD0 /* KakaoMapLib.h in Headers */ = {isa = PBXBuildFile; fileRef = 6B723F2C2339A91F00A71AD0 /* KakaoMapLib.h */; };
 		6B723F5D2339A98800A71AD0 /* map_pinup_custom@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B723F372339A98800A71AD0 /* map_pinup_custom@3x.png */; };
 		6B723F5E2339A98800A71AD0 /* map_pin_custom.png in Resources */ = {isa = PBXBuildFile; fileRef = 6B723F382339A98800A71AD0 /* map_pin_custom.png */; };
@@ -56,7 +55,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2EA286DE4862D2D3913FEC75 /* KakaoMapLib-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "KakaoMapLib-Bridging-Header.h"; sourceTree = "<group>"; };
 		6B723F292339A91F00A71AD0 /* KakaoMapLib.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = KakaoMapLib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B723F2C2339A91F00A71AD0 /* KakaoMapLib.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = KakaoMapLib.h; sourceTree = "<group>"; };
 		6B723F2D2339A91F00A71AD0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -148,7 +146,6 @@
 			children = (
 				6B723F2C2339A91F00A71AD0 /* KakaoMapLib.h */,
 				6B723F2D2339A91F00A71AD0 /* Info.plist */,
-				2EA286DE4862D2D3913FEC75 /* KakaoMapLib-Bridging-Header.h */,
 			);
 			path = KakaoMapLib;
 			sourceTree = "<group>";
@@ -244,7 +241,6 @@
 				6B723F6F2339A98800A71AD0 /* MTMapReverseGeoCoder.h in Headers */,
 				6B723F712339A98800A71AD0 /* MTMapLocationMarkerItem.h in Headers */,
 				6B723F702339A98800A71AD0 /* MTMapPolyline.h in Headers */,
-				2EA284C05A7CDCBD9F9D3897 /* KakaoMapLib-Bridging-Header.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
