@@ -4,10 +4,7 @@
     <list default="true" id="f328a417-22d0-42ce-bfc5-82468acdf597" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DaumMapLib.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/DaumMapLib.podspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KakaoMapLib.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/KakaoMapLib.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/KakaoMapLib/KakaoMapLib-Bridging-Header.h" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +23,12 @@
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectId" id="1RJmyqLN7kX1d11UYOGiOcOn3DB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="manualOrder" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="OBJC.PRESERVED_TARGET_SELECTION" value="KakaoMapLib" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -165,7 +168,11 @@
       <workItem from="1569389963711" duration="9000" />
       <workItem from="1569393364472" duration="275000" />
       <workItem from="1569393699879" duration="74000" />
-      <workItem from="1569393836275" duration="279000" />
+      <workItem from="1569393836275" duration="2114000" />
+      <workItem from="1571033638209" duration="421000" />
+      <workItem from="1571034062460" duration="1128000" />
+      <workItem from="1571101128073" duration="1058000" />
+      <workItem from="1571112781289" duration="466000" />
     </task>
     <servers />
   </component>
@@ -177,7 +184,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

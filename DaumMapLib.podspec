@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "DaumMapLib"
-  spec.version      = "0.0.7"
+  spec.version      = "0.0.8"
   spec.summary      = "Daum map from Kakao corp."
   
   spec.description  = <<-DESC
@@ -13,7 +13,7 @@ Pod::Spec.new do |spec|
   spec.author    = "clby"
   spec.ios.deployment_target = "8.0"
   spec.source       = { :git => "https://github.com/clbycode/pod_daum_map.git", :tag => "#{spec.version}" }
-  spec.ios.vendored_framework = "Frameworks/DaumMap.embeddedframework/DaumMap.framework"
+  spec.vendored_framework = "Frameworks/DaumMap.embeddedframework/DaumMap.framework"
   spec.source_files  = "Frameworks/DaumMap.embeddedframework/DaumMap.framework/Headers/*.h"
   spec.frameworks = 'CoreLocation', 'SystemConfiguration', 'OpenGLES', 'QuartzCore'
   spec.libraries = 'xml2', 'sqlite3', 'c++'
