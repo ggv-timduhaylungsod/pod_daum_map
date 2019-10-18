@@ -11,11 +11,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_" />
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>flutter_plugin_kakao_map-Swift</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -172,7 +167,8 @@
       <workItem from="1571033638209" duration="421000" />
       <workItem from="1571034062460" duration="1128000" />
       <workItem from="1571101128073" duration="1058000" />
-      <workItem from="1571112781289" duration="466000" />
+      <workItem from="1571112781289" duration="2808000" />
+      <workItem from="1571374654569" duration="170000" />
     </task>
     <servers />
   </component>
